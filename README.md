@@ -1,7 +1,9 @@
 # mlf-svg-icons
-Graphics in SVG-format for use in web based programs. Developed especially for use in My Little Forum.
+Graphics in SVG-format for use in web based programs. Developed is it especially for use in the theme [Responsive 1](https://github.com/auge8472/mlf2-themes) for My Little Forum. One can use it for other themes and also for completely different software.
 
-The set looks in it's first steps more or less similar to the set, that is used in the default theme of My Little Forum 2. A refinement to get an independent style is a task for the time, the set is complete.
+The set looks in it's first steps more or less similar to the set [Silk Icons](http://www.famfamfam.com/lab/icons/silk/), that is used in the default theme of My Little Forum 2. To state it: it is **no copy** of Silk Icons theme. A refinement to get an independent style is a task for the time, the set is feature complete.
+
+This is no attempt to compete against the well known established and mature icon sets. It's an attepmt to make the look of my own theme for My Little Forum distinguishable from the many other pages, that uses these icon sets.
 
 ## Inclusion of the images
 
