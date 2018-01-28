@@ -5,7 +5,7 @@
   #floppy, #hole { stroke: none; fill: #56d; }
   #slider { fill: #ddd; }
   #sticker { fill: #fff; }
-  path { fill: none; stroke-width: 10px; stroke: #555;}
+  path { fill: none; stroke-width: 8px; stroke: #555;}
   ]]>
  </style>
  <polygon id="floppy" points="1,4 4,1 114,1 127,14 127,124 124,127 4,127 1,124" />
