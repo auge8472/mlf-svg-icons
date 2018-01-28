@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+ <style type="text/css">
+  <![CDATA[
+  #face { fill: #fc0; stroke: none; }
+  .eyes { fill: #222; stroke: none; }
+  path { fill: none; stroke-width: 8px; stroke: #222; }
+  ]]>
+ </style>
+ <circle id="face" cx="64" cy="64" r="63" />
+ <circle class="eyes" cx="42" cy="44" r="8" />
+ <circle class="eyes" cx="86" cy="44" r="8" />
+ <path d="M 28,70 A 0.25,0.25 0 1 0 100,70" />
+</svg>
+
