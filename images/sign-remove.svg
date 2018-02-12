@@ -2,11 +2,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
  <style type="text/css">
   <![CDATA[
-  circle.keyhole { fill: #f80800; stroke: none; }
-  path { stroke-width: 8px; stroke: #efefef; }
+  .shield { fill: #f80800; stroke: #efefef; stroke-width: 4px; }
+  path { stroke-width: 26px; stroke: #efefef; }
   ]]>
  </style>
- <circle class="keyhole" cx="96" cy="96" r="30" />
- <path d="M74,96 H118" />
+ <circle class="shield" cx="64" cy="64" r="60" />
+ <path d="M18,64 H110" />
 </svg>
 
