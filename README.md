@@ -5,7 +5,7 @@ The project and testing forum resides under [www.projekt-mlf.de/forum](https://w
 
 The set looks in it's first steps more or less similar to the set [Silk Icons](http://www.famfamfam.com/lab/icons/silk/), that is used in the default theme of My Little Forum 2. To state it: it is **no copy** of Silk Icons theme. A refinement to get an independent style is a task for the time, the set is feature complete.
 
-This is no attempt to compete against the well known established and mature icon sets. It's an attempt to make the look of my own theme for My Little Forum distinguishable from the many other pages, that uses these icon sets.
+This is no attempt to compete against the well known established and mature icon sets. It's an attempt to make the look of my own theme for My Little Forum distinguishable from the many other pages, that uses these icon sets. As a welcomed side effect most of the icons of this set are in contrast to the wide used icon-font-sets, which are normally singlecoloured per icon, varicoloured.
 
 ## Inclusion of the images
 
