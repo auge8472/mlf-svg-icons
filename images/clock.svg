@@ -8,13 +8,13 @@
  </defs>
  <style type="text/css">
   <![CDATA[
-  #face { fill: url(#plate); stroke-width: 8px; stroke: #222; }
+  #face { fill: url(#plate); stroke-width: 4px; stroke: #222; }
   .eyes { fill: #222; stroke: none; }
-  path { fill: none; stroke-width: 8px; stroke: #222; }
+  path { fill: none; stroke-width: 4px; stroke: #222; }
   ]]>
  </style>
  <circle id="face" cx="64" cy="64" r="59" />
- <circle class="eyes" cx="64" cy="64" r="8" />
+ <circle class="eyes" cx="64" cy="64" r="6" />
  <path class="hand" d="M64,64 68,103" />
  <path class="hand" d="M64,64 28,28" />
 </svg>
