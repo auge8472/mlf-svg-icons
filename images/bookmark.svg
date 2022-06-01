@@ -7,7 +7,7 @@
   </linearGradient>
  </defs>
  <style type="text/css"><![CDATA[
-  path { fill: url(#plate); stroke: #222; stroke-width: 6px; }
+  path { fill: url(#plate); stroke: #222; stroke-width: 6px; stroke-linejoin: round; }
   ]]></style>
- <path d="M30,8 30,120 64,86 98,120 98,8 z" />
+ <path d="M30,4 30,124 64,90 98,124 98,4 z" />
 </svg>
