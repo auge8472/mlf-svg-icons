@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+ <style type="text/css">
+  <![CDATA[
+  circle { fill: #8898aa; stroke: none; }
+  ]]>
+ </style>
+ <g>
+  <circle class="shield" cx="46" cy="30" r="8" />
+  <circle class="shield" cx="82" cy="30" r="8" />
+  <circle class="shield" cx="46" cy="64" r="8" />
+  <circle class="shield" cx="82" cy="64" r="8" />
+  <circle class="shield" cx="46" cy="98" r="8" />
+  <circle class="shield" cx="82" cy="98" r="8" />
+ </g>
+</svg>
+
